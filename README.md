@@ -1,10 +1,8 @@
-﻿@[TOC](【超越YOLOv4】百度自研超高效目标检测器——PP-YOLO)
-# 前言：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200724142408104.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkzNjg4OQ==,size_16,color_FFFFFF,t_70)
+# 基于PP-yolo完成自动驾驶中车辆检测、车距估计和红绿灯识别
 
-之前，YOLO系列(v1-v3)作者 Joe Redmon 宣布不再继续CV方向的研究，引起学术圈一篇哗然。YOLO之父宣布退出CV界，坦言无法忽视自己工作带来的负面影响。当大家以为再也见不到YOLOv4的时候，然鹅不久前YOLOv4 来了！
+PaddleDetection：https://github.com/PaddlePaddle/PaddleDetection
 
-YOLOv4的特点是集大成者，俗称堆料。但最终达到这么高的性能，一定是不断尝试、不断堆料、不断调参的结果，最终取得了非常好的成绩。更令人震惊的是，YOLOv4热度未退，PaddlePaddle又爆出猛料——发表了《PP-YOLO: An Effective and Efficient Implementation of Object Detector》。改论文提出的PP-YOLO称已经超越YOLOv4，我们来一睹为快吧！
+我的博客：https://blog.csdn.net/weixin_44936889
 
 论文地址：[https://arxiv.org/pdf/2007.12099.pdf](https://arxiv.org/pdf/2007.12099.pdf)
 
