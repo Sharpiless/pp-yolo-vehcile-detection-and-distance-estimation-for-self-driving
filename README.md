@@ -6,6 +6,8 @@ PaddleDetection：https://github.com/PaddlePaddle/PaddleDetection
 
 论文地址：[https://arxiv.org/pdf/2007.12099.pdf](https://arxiv.org/pdf/2007.12099.pdf)
 
+论文详解：https://blog.csdn.net/weixin_44936889/article/details/107560168
+
 # 最终效果：
 
 其中检测框上面的数值是一个相对的距离值
