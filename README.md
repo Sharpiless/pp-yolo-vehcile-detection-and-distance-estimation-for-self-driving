@@ -8,6 +8,8 @@ PaddleDetection：https://github.com/PaddlePaddle/PaddleDetection
 
 # 最终效果：
 
+其中检测框上面的数值是一个相对的距离值
+
 ![a](https://img-blog.csdnimg.cn/2020081422393128.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkzNjg4OQ==,size_16,color_FFFFFF,t_70#pic_center)
 
 
